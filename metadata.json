@@ -1,0 +1,6 @@
+{
+  "name": "Onyx Mine Safety & Operations Platform",
+  "description": "DGMS Telemetry Compliance Portal • Jharia & Singareni Coalfields. Next-generation heavy-fleet telemetry, rule-engine hazard monitoring, and Gemini-driven predictive safety guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
